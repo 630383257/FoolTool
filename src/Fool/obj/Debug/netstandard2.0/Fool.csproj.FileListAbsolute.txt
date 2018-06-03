@@ -1,0 +1,9 @@
+F:\Sun\Self\FoolTool\src\Fool\bin\Debug\netstandard2.0\Fool.deps.json
+F:\Sun\Self\FoolTool\src\Fool\bin\Debug\netstandard2.0\Fool.dll
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.csprojResolveAssemblyReference.cache
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.csproj.CoreCompileInputs.cache
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.AssemblyInfoInputs.cache
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.AssemblyInfo.cs
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.Properties.LibraryResource.resources
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.Properties.R.resources
+F:\Sun\Self\FoolTool\src\Fool\obj\Debug\netstandard2.0\Fool.csproj.GenerateResource.Cache
